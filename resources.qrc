@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>glsl/fnt.fsh</file>
+        <file>glsl/vtx.vsh</file>
+    </qresource>
+</RCC>
